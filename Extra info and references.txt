@@ -1,1 +1,8 @@
+// Silly classifier
 https://cs231n.github.io/neural-networks-case-study/
+
+// Python + numpy tutorial
+https://cs231n.github.io/python-numpy-tutorial/
+
+//cs231 CNN for visual recognition provided by Stanford University
+https://cs231n.github.io/
